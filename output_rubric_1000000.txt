@@ -1,0 +1,261 @@
+
+--- Summary for  Sizing at 2 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 708289, Bid Count: 2400571, Rate 1: 1, Rate 2: 2
+Player ID: 2, Win/Loss: 693433, Bid Count: 2234022, Rate 1: 1, Rate 2: 3
+Player ID: 2, Win/Loss: 687066, Bid Count: 2902476, Rate 1: 1, Rate 2: 1
+Player ID: 2, Win/Loss: 671982, Bid Count: 2150272, Rate 1: 1, Rate 2: 4
+Player ID: 2, Win/Loss: 646474, Bid Count: 2099641, Rate 1: 1, Rate 2: 5
+Player ID: 2, Win/Loss: 640017, Bid Count: 2466357, Rate 1: 2, Rate 2: 3
+Player ID: 2, Win/Loss: 632076, Bid Count: 2799058, Rate 1: 2, Rate 2: 2
+Player ID: 2, Win/Loss: 629849, Bid Count: 2300379, Rate 1: 2, Rate 2: 4
+Player ID: 2, Win/Loss: 620133, Bid Count: 2067305, Rate 1: 1, Rate 2: 6
+Player ID: 2, Win/Loss: 614684, Bid Count: 2200613, Rate 1: 2, Rate 2: 5
+Player ID: 2, Win/Loss: 595308, Bid Count: 2133483, Rate 1: 2, Rate 2: 6
+Player ID: 2, Win/Loss: 593968, Bid Count: 2042838, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 587850, Bid Count: 2450136, Rate 1: 3, Rate 2: 4
+Player ID: 2, Win/Loss: 583589, Bid Count: 2700717, Rate 1: 3, Rate 2: 3
+Player ID: 2, Win/Loss: 580732, Bid Count: 2299127, Rate 1: 3, Rate 2: 5
+Player ID: 2, Win/Loss: 576072, Bid Count: 2085693, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 570313, Bid Count: 2200057, Rate 1: 3, Rate 2: 6
+Player ID: 2, Win/Loss: 567795, Bid Count: 2024913, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 560856, Bid Count: 3803120, Rate 1: 2, Rate 2: 1
+Player ID: 2, Win/Loss: 556926, Bid Count: 3200986, Rate 1: 3, Rate 2: 2
+Player ID: 2, Win/Loss: 556688, Bid Count: 2127930, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 555384, Bid Count: 2049901, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 546307, Bid Count: 2399447, Rate 1: 4, Rate 2: 5
+Player ID: 2, Win/Loss: 543864, Bid Count: 2266439, Rate 1: 4, Rate 2: 6
+Player ID: 2, Win/Loss: 543409, Bid Count: 2599636, Rate 1: 4, Rate 2: 4
+Player ID: 2, Win/Loss: 542598, Bid Count: 2075400, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 540862, Bid Count: 2011107, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 537883, Bid Count: 2171785, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 536024, Bid Count: 2022361, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 529981, Bid Count: 2100694, Rate 1: 4, Rate 2: 8
+
+Total Winning Rounds in Top 30: 17750412
+
+Data cleared for the next sizing loop.
+
+--- Summary for  Sizing at 3 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 675019, Bid Count: 1821932, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 674701, Bid Count: 1820089, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 673845, Bid Count: 1822055, Rate 1: 3, Rate 2: 9
+Player ID: 2, Win/Loss: 673473, Bid Count: 1825353, Rate 1: 4, Rate 2: 9
+Player ID: 2, Win/Loss: 673427, Bid Count: 1828174, Rate 1: 5, Rate 2: 9
+Player ID: 2, Win/Loss: 672266, Bid Count: 1829092, Rate 1: 6, Rate 2: 9
+Player ID: 2, Win/Loss: 671449, Bid Count: 1830988, Rate 1: 7, Rate 2: 9
+Player ID: 2, Win/Loss: 670054, Bid Count: 1833203, Rate 1: 8, Rate 2: 9
+Player ID: 2, Win/Loss: 669327, Bid Count: 1834078, Rate 1: 9, Rate 2: 9
+Player ID: 2, Win/Loss: 623340, Bid Count: 1674304, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 621913, Bid Count: 1680155, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 620845, Bid Count: 1687044, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 617848, Bid Count: 1694680, Rate 1: 4, Rate 2: 8
+Player ID: 2, Win/Loss: 615769, Bid Count: 1700763, Rate 1: 5, Rate 2: 8
+Player ID: 2, Win/Loss: 613916, Bid Count: 1709601, Rate 1: 6, Rate 2: 8
+Player ID: 2, Win/Loss: 610197, Bid Count: 1715925, Rate 1: 7, Rate 2: 8
+Player ID: 2, Win/Loss: 608063, Bid Count: 1723385, Rate 1: 8, Rate 2: 8
+Player ID: 2, Win/Loss: 604017, Bid Count: 1730058, Rate 1: 9, Rate 2: 8
+Player ID: 2, Win/Loss: 581572, Bid Count: 1554366, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 579239, Bid Count: 1569234, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 575462, Bid Count: 1582539, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 572282, Bid Count: 1600857, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 567970, Bid Count: 1616175, Rate 1: 5, Rate 2: 7
+Player ID: 2, Win/Loss: 562044, Bid Count: 1627920, Rate 1: 6, Rate 2: 7
+Player ID: 2, Win/Loss: 557044, Bid Count: 1644392, Rate 1: 7, Rate 2: 7
+Player ID: 2, Win/Loss: 548739, Bid Count: 1454661, Rate 1: 1, Rate 2: 6
+Player ID: 2, Win/Loss: 547982, Bid Count: 1659587, Rate 1: 8, Rate 2: 7
+Player ID: 2, Win/Loss: 543820, Bid Count: 1481082, Rate 1: 2, Rate 2: 6
+Player ID: 2, Win/Loss: 541573, Bid Count: 1676436, Rate 1: 9, Rate 2: 7
+Player ID: 2, Win/Loss: 538974, Bid Count: 1510405, Rate 1: 3, Rate 2: 6
+
+Total Winning Rounds in Top 30: 18306170
+
+Data cleared for the next sizing loop.
+
+--- Summary for  Sizing at 4 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 784101, Bid Count: 1805054, Rate 1: 7, Rate 2: 9
+Player ID: 2, Win/Loss: 783711, Bid Count: 1802238, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 783689, Bid Count: 1802127, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 783326, Bid Count: 1803251, Rate 1: 5, Rate 2: 9
+Player ID: 2, Win/Loss: 783312, Bid Count: 1803115, Rate 1: 3, Rate 2: 9
+Player ID: 2, Win/Loss: 783296, Bid Count: 1803050, Rate 1: 6, Rate 2: 9
+Player ID: 2, Win/Loss: 783058, Bid Count: 1804053, Rate 1: 8, Rate 2: 9
+Player ID: 2, Win/Loss: 782940, Bid Count: 1804167, Rate 1: 9, Rate 2: 9
+Player ID: 2, Win/Loss: 782637, Bid Count: 1802177, Rate 1: 4, Rate 2: 9
+Player ID: 2, Win/Loss: 701907, Bid Count: 1620618, Rate 1: 4, Rate 2: 8
+Player ID: 2, Win/Loss: 701857, Bid Count: 1614667, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 701494, Bid Count: 1618768, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 701272, Bid Count: 1623613, Rate 1: 5, Rate 2: 8
+Player ID: 2, Win/Loss: 700940, Bid Count: 1615474, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 700843, Bid Count: 1625594, Rate 1: 6, Rate 2: 8
+Player ID: 2, Win/Loss: 700580, Bid Count: 1626726, Rate 1: 7, Rate 2: 8
+Player ID: 2, Win/Loss: 699098, Bid Count: 1628813, Rate 1: 8, Rate 2: 8
+Player ID: 2, Win/Loss: 698423, Bid Count: 1629740, Rate 1: 9, Rate 2: 8
+Player ID: 2, Win/Loss: 627306, Bid Count: 1445098, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 626908, Bid Count: 1451168, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 626234, Bid Count: 1457201, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 624911, Bid Count: 1460909, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 624771, Bid Count: 1469061, Rate 1: 5, Rate 2: 7
+Player ID: 2, Win/Loss: 623120, Bid Count: 1475970, Rate 1: 6, Rate 2: 7
+Player ID: 2, Win/Loss: 622169, Bid Count: 1482302, Rate 1: 7, Rate 2: 7
+Player ID: 2, Win/Loss: 619409, Bid Count: 1487905, Rate 1: 8, Rate 2: 7
+Player ID: 2, Win/Loss: 616151, Bid Count: 1492856, Rate 1: 9, Rate 2: 7
+Player ID: 2, Win/Loss: 562013, Bid Count: 1296094, Rate 1: 1, Rate 2: 6
+Player ID: 2, Win/Loss: 560251, Bid Count: 1307781, Rate 1: 2, Rate 2: 6
+Player ID: 2, Win/Loss: 559977, Bid Count: 1323373, Rate 1: 3, Rate 2: 6
+
+Total Winning Rounds in Top 30: 20649704
+
+Data cleared for the next sizing loop.
+
+--- Summary for  Sizing at 5 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 843942, Bid Count: 1800693, Rate 1: 5, Rate 2: 9
+Player ID: 2, Win/Loss: 843882, Bid Count: 1800741, Rate 1: 7, Rate 2: 9
+Player ID: 2, Win/Loss: 843780, Bid Count: 1800809, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 843729, Bid Count: 1800663, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 843637, Bid Count: 1801169, Rate 1: 9, Rate 2: 9
+Player ID: 2, Win/Loss: 843521, Bid Count: 1800218, Rate 1: 6, Rate 2: 9
+Player ID: 2, Win/Loss: 843445, Bid Count: 1800371, Rate 1: 4, Rate 2: 9
+Player ID: 2, Win/Loss: 843286, Bid Count: 1800744, Rate 1: 8, Rate 2: 9
+Player ID: 2, Win/Loss: 843066, Bid Count: 1799843, Rate 1: 3, Rate 2: 9
+Player ID: 2, Win/Loss: 751506, Bid Count: 1605573, Rate 1: 4, Rate 2: 8
+Player ID: 2, Win/Loss: 751281, Bid Count: 1604089, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 751272, Bid Count: 1607016, Rate 1: 6, Rate 2: 8
+Player ID: 2, Win/Loss: 751153, Bid Count: 1602993, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 750682, Bid Count: 1608063, Rate 1: 9, Rate 2: 8
+Player ID: 2, Win/Loss: 750555, Bid Count: 1606808, Rate 1: 8, Rate 2: 8
+Player ID: 2, Win/Loss: 750527, Bid Count: 1603675, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 750430, Bid Count: 1604726, Rate 1: 5, Rate 2: 8
+Player ID: 2, Win/Loss: 750062, Bid Count: 1605278, Rate 1: 7, Rate 2: 8
+Player ID: 2, Win/Loss: 662251, Bid Count: 1414869, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 661924, Bid Count: 1418899, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 661789, Bid Count: 1422111, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 661137, Bid Count: 1415609, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 660738, Bid Count: 1428536, Rate 1: 7, Rate 2: 7
+Player ID: 2, Win/Loss: 660535, Bid Count: 1422797, Rate 1: 5, Rate 2: 7
+Player ID: 2, Win/Loss: 660354, Bid Count: 1424378, Rate 1: 6, Rate 2: 7
+Player ID: 2, Win/Loss: 659477, Bid Count: 1430104, Rate 1: 8, Rate 2: 7
+Player ID: 2, Win/Loss: 657818, Bid Count: 1430906, Rate 1: 9, Rate 2: 7
+Player ID: 2, Win/Loss: 577879, Bid Count: 1244912, Rate 1: 2, Rate 2: 6
+Player ID: 2, Win/Loss: 577695, Bid Count: 1238147, Rate 1: 1, Rate 2: 6
+Player ID: 2, Win/Loss: 577375, Bid Count: 1266919, Rate 1: 5, Rate 2: 6
+
+Total Winning Rounds in Top 30: 22028728
+
+Data cleared for the next sizing loop.
+
+--- Summary for  Sizing at 6 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 874103, Bid Count: 1801700, Rate 1: 3, Rate 2: 9
+Player ID: 2, Win/Loss: 874005, Bid Count: 1801314, Rate 1: 5, Rate 2: 9
+Player ID: 2, Win/Loss: 873646, Bid Count: 1800444, Rate 1: 8, Rate 2: 9
+Player ID: 2, Win/Loss: 873594, Bid Count: 1800321, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 873534, Bid Count: 1800674, Rate 1: 6, Rate 2: 9
+Player ID: 2, Win/Loss: 873454, Bid Count: 1799778, Rate 1: 9, Rate 2: 9
+Player ID: 2, Win/Loss: 873384, Bid Count: 1800403, Rate 1: 7, Rate 2: 9
+Player ID: 2, Win/Loss: 873325, Bid Count: 1799957, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 873281, Bid Count: 1799708, Rate 1: 4, Rate 2: 9
+Player ID: 2, Win/Loss: 777121, Bid Count: 1601357, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 776855, Bid Count: 1601810, Rate 1: 4, Rate 2: 8
+Player ID: 2, Win/Loss: 776745, Bid Count: 1600641, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 776742, Bid Count: 1601687, Rate 1: 6, Rate 2: 8
+Player ID: 2, Win/Loss: 776727, Bid Count: 1601305, Rate 1: 5, Rate 2: 8
+Player ID: 2, Win/Loss: 776665, Bid Count: 1601764, Rate 1: 9, Rate 2: 8
+Player ID: 2, Win/Loss: 776527, Bid Count: 1600130, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 776020, Bid Count: 1600888, Rate 1: 7, Rate 2: 8
+Player ID: 2, Win/Loss: 775892, Bid Count: 1600731, Rate 1: 8, Rate 2: 8
+Player ID: 2, Win/Loss: 681736, Bid Count: 1409369, Rate 1: 5, Rate 2: 7
+Player ID: 2, Win/Loss: 681699, Bid Count: 1407910, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 681180, Bid Count: 1410339, Rate 1: 7, Rate 2: 7
+Player ID: 2, Win/Loss: 680784, Bid Count: 1404038, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 680738, Bid Count: 1403821, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 680709, Bid Count: 1410579, Rate 1: 8, Rate 2: 7
+Player ID: 2, Win/Loss: 680660, Bid Count: 1411997, Rate 1: 9, Rate 2: 7
+Player ID: 2, Win/Loss: 680639, Bid Count: 1405248, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 680476, Bid Count: 1407810, Rate 1: 6, Rate 2: 7
+Player ID: 2, Win/Loss: 588476, Bid Count: 1225396, Rate 1: 4, Rate 2: 6
+Player ID: 2, Win/Loss: 588405, Bid Count: 1229906, Rate 1: 5, Rate 2: 6
+Player ID: 2, Win/Loss: 588375, Bid Count: 1215272, Rate 1: 1, Rate 2: 6
+
+Total Winning Rounds in Top 30: 22745497
+
+Data cleared for the next sizing loop.
+
+--- Summary for  Sizing at 7 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 888302, Bid Count: 1800698, Rate 1: 6, Rate 2: 9
+Player ID: 2, Win/Loss: 888197, Bid Count: 1800571, Rate 1: 4, Rate 2: 9
+Player ID: 2, Win/Loss: 888095, Bid Count: 1800402, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 888089, Bid Count: 1800526, Rate 1: 8, Rate 2: 9
+Player ID: 2, Win/Loss: 887984, Bid Count: 1800288, Rate 1: 9, Rate 2: 9
+Player ID: 2, Win/Loss: 887813, Bid Count: 1800052, Rate 1: 5, Rate 2: 9
+Player ID: 2, Win/Loss: 887489, Bid Count: 1799686, Rate 1: 7, Rate 2: 9
+Player ID: 2, Win/Loss: 887459, Bid Count: 1799356, Rate 1: 3, Rate 2: 9
+Player ID: 2, Win/Loss: 887349, Bid Count: 1799115, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 789980, Bid Count: 1601447, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 789705, Bid Count: 1601163, Rate 1: 6, Rate 2: 8
+Player ID: 2, Win/Loss: 789703, Bid Count: 1600579, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 789435, Bid Count: 1600933, Rate 1: 9, Rate 2: 8
+Player ID: 2, Win/Loss: 789337, Bid Count: 1600534, Rate 1: 5, Rate 2: 8
+Player ID: 2, Win/Loss: 789113, Bid Count: 1600195, Rate 1: 8, Rate 2: 8
+Player ID: 2, Win/Loss: 789109, Bid Count: 1600231, Rate 1: 4, Rate 2: 8
+Player ID: 2, Win/Loss: 789064, Bid Count: 1600239, Rate 1: 7, Rate 2: 8
+Player ID: 2, Win/Loss: 788373, Bid Count: 1598643, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 691597, Bid Count: 1403021, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 691097, Bid Count: 1402760, Rate 1: 5, Rate 2: 7
+Player ID: 2, Win/Loss: 690953, Bid Count: 1403070, Rate 1: 7, Rate 2: 7
+Player ID: 2, Win/Loss: 690923, Bid Count: 1404140, Rate 1: 9, Rate 2: 7
+Player ID: 2, Win/Loss: 690890, Bid Count: 1402616, Rate 1: 6, Rate 2: 7
+Player ID: 2, Win/Loss: 690884, Bid Count: 1402188, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 690775, Bid Count: 1401287, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 690718, Bid Count: 1403141, Rate 1: 8, Rate 2: 7
+Player ID: 2, Win/Loss: 690571, Bid Count: 1400431, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 594594, Bid Count: 1211500, Rate 1: 4, Rate 2: 6
+Player ID: 2, Win/Loss: 593959, Bid Count: 1208501, Rate 1: 3, Rate 2: 6
+Player ID: 2, Win/Loss: 593877, Bid Count: 1205694, Rate 1: 1, Rate 2: 6
+
+Total Winning Rounds in Top 30: 23095434
+
+Data cleared for the next sizing loop.
+
+--- Summary for  Sizing at 8 ---
+
+--- Top 30 Win/Loss Data ---
+Player ID: 2, Win/Loss: 894650, Bid Count: 1800284, Rate 1: 4, Rate 2: 9
+Player ID: 2, Win/Loss: 894613, Bid Count: 1800046, Rate 1: 9, Rate 2: 9
+Player ID: 2, Win/Loss: 894609, Bid Count: 1800110, Rate 1: 6, Rate 2: 9
+Player ID: 2, Win/Loss: 894550, Bid Count: 1800082, Rate 1: 2, Rate 2: 9
+Player ID: 2, Win/Loss: 894532, Bid Count: 1800122, Rate 1: 5, Rate 2: 9
+Player ID: 2, Win/Loss: 894485, Bid Count: 1800134, Rate 1: 8, Rate 2: 9
+Player ID: 2, Win/Loss: 894344, Bid Count: 1799822, Rate 1: 7, Rate 2: 9
+Player ID: 2, Win/Loss: 894272, Bid Count: 1799648, Rate 1: 3, Rate 2: 9
+Player ID: 2, Win/Loss: 894109, Bid Count: 1799240, Rate 1: 1, Rate 2: 9
+Player ID: 2, Win/Loss: 795695, Bid Count: 1600948, Rate 1: 2, Rate 2: 8
+Player ID: 2, Win/Loss: 795257, Bid Count: 1600286, Rate 1: 9, Rate 2: 8
+Player ID: 2, Win/Loss: 795245, Bid Count: 1600327, Rate 1: 6, Rate 2: 8
+Player ID: 2, Win/Loss: 795228, Bid Count: 1600330, Rate 1: 1, Rate 2: 8
+Player ID: 2, Win/Loss: 795162, Bid Count: 1600135, Rate 1: 5, Rate 2: 8
+Player ID: 2, Win/Loss: 795020, Bid Count: 1599978, Rate 1: 7, Rate 2: 8
+Player ID: 2, Win/Loss: 794903, Bid Count: 1599556, Rate 1: 3, Rate 2: 8
+Player ID: 2, Win/Loss: 794513, Bid Count: 1598833, Rate 1: 4, Rate 2: 8
+Player ID: 2, Win/Loss: 794431, Bid Count: 1598614, Rate 1: 8, Rate 2: 8
+Player ID: 2, Win/Loss: 696633, Bid Count: 1402721, Rate 1: 9, Rate 2: 7
+Player ID: 2, Win/Loss: 696531, Bid Count: 1401843, Rate 1: 2, Rate 2: 7
+Player ID: 2, Win/Loss: 696005, Bid Count: 1401121, Rate 1: 6, Rate 2: 7
+Player ID: 2, Win/Loss: 695946, Bid Count: 1401788, Rate 1: 8, Rate 2: 7
+Player ID: 2, Win/Loss: 695805, Bid Count: 1400245, Rate 1: 1, Rate 2: 7
+Player ID: 2, Win/Loss: 695646, Bid Count: 1400201, Rate 1: 3, Rate 2: 7
+Player ID: 2, Win/Loss: 695410, Bid Count: 1399712, Rate 1: 4, Rate 2: 7
+Player ID: 2, Win/Loss: 695210, Bid Count: 1399733, Rate 1: 7, Rate 2: 7
+Player ID: 2, Win/Loss: 694972, Bid Count: 1398946, Rate 1: 5, Rate 2: 7
+Player ID: 2, Win/Loss: 598307, Bid Count: 1205537, Rate 1: 2, Rate 2: 6
+Player ID: 2, Win/Loss: 59
